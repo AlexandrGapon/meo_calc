@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/meo_calc/static/css/main.45105eb5.chunk.css",
+    "main.js": "/meo_calc/static/js/main.3ab78266.chunk.js",
+    "main.js.map": "/meo_calc/static/js/main.3ab78266.chunk.js.map",
+    "runtime-main.js": "/meo_calc/static/js/runtime-main.6c26bb3a.js",
+    "runtime-main.js.map": "/meo_calc/static/js/runtime-main.6c26bb3a.js.map",
+    "static/js/2.67e461cb.chunk.js": "/meo_calc/static/js/2.67e461cb.chunk.js",
+    "static/js/2.67e461cb.chunk.js.map": "/meo_calc/static/js/2.67e461cb.chunk.js.map",
+    "index.html": "/meo_calc/index.html",
+    "static/css/main.45105eb5.chunk.css.map": "/meo_calc/static/css/main.45105eb5.chunk.css.map",
+    "static/js/2.67e461cb.chunk.js.LICENSE.txt": "/meo_calc/static/js/2.67e461cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c26bb3a.js",
+    "static/js/2.67e461cb.chunk.js",
+    "static/css/main.45105eb5.chunk.css",
+    "static/js/main.3ab78266.chunk.js"
+  ]
+}
